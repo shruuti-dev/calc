@@ -10,7 +10,9 @@ System.out.println("Enter num2: ");
 int num2 = sc.nextInt();
 int sum = num1 + num2;
 System.out.println("the sum is: " + sum);
+int diff = num1 - num2;
 
+System.out.println("the diff is: " + diff);
 sc.close();
 }
 }
