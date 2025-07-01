@@ -11,6 +11,9 @@ int num2 = sc.nextInt();
 int sum = num1 + num2;
 System.out.println("the sum is: " + sum);
 
+ int mul = num1 * num2;
+ System.out.println("Multiplication is: " + mul);
+
 sc.close();
 }
 }
